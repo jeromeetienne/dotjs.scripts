@@ -1,0 +1,12 @@
+my ~/.js directory (see dotjs)
+
+How to install it
+
+  git clone git@github.com:jeromeetienne/dotjs.scripts.git ~/.js
+
+
+about dotjs:
+
+- pro: super simple
+- con: non stackable
+- con: non compatible with greasemonkey which is the current standard
